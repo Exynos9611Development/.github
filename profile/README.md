@@ -9,4 +9,4 @@ local_manifests
 ```
 
 # Status #
-A14: boots, sms sending dead
+A14: working very fine, sms sending dead
