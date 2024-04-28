@@ -9,4 +9,5 @@ local_manifests
 ```
 
 # Status #
-A14: working very fine, sms sending dead
+A14: working very fine, sms sending dead, RIL Dead
+   A51: NFC Dead
