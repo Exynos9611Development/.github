@@ -15,6 +15,7 @@ local_manifests
 
 # Status #
 A14: A51 is stable. Other devices untested for now
+
 A15: Untested
 
 I will be glad if you use my trees, always with credit
