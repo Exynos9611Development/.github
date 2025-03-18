@@ -5,8 +5,8 @@ local_manifests
 # VIC #
 ----------------
 ```bash
-   git clone https://github.com/Exynos9611Development/local_manifests.git -b lineage-22 .repo/local_manifests
+   git clone https://github.com/Exynos9611Development/local_manifests.git -b lineage-22.2 .repo/local_manifests
 ```
 
 # Status #
-A15 QPR1: Stable. (4.14.355)
+A15 QPR2: Stable. (4.14.355)
